@@ -548,7 +548,7 @@ const App = () => {
             深度原理解析与可视化
           </h1>
           <p className="text-lg md:text-xl text-slate-400 max-w-2xl leading-relaxed lg:mx-0 mx-auto">
-            一站式交互展示：从 <span className="text-blue-400">RAG检索一致性</span> 到 <span className="text-green-400">PD推理加速</span>，再到 <span className="text-purple-400">LoRA微调</span> 与 <span className="text-orange-400">抗噪训练</span>。
+            一站式交互展示：从 <span className="text-blue-400">RAG检索一致性</span> 到 <span className="text-green-400">PD推理加速</span>，再到 <span className="text-purple-400">LoRA微调</span> 与 <span className="text-orange-400">大模型强化训练优化</span>。
           </p>
         </header>
 

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<你的GitHub用户名>.github.io/industrial-llm-demo",
+  "homepage": "https://uglyghost.github.io/industrial-llm-demo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
