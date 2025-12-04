@@ -1,9 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-    
-/* 可选：添加深色背景默认样式 */
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
 body {
+  /* 设置与 App.jsx 一致的深色背景 */
   background-color: #0b1121;
   color: white;
+  margin: 0;
+  min-height: 100vh;
 }
