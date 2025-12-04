@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+    
+/* 可选：添加深色背景默认样式 */
+body {
+  background-color: #0b1121;
+  color: white;
+}
